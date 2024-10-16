@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#ramen-menu {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#ramen-menu img {
+    width: 150px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#ramen-detail {
+    margin-top: 20px;
+}
